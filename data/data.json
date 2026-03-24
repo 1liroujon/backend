@@ -1,0 +1,17 @@
+{
+    "nextId": 4,
+    "users": [
+        {
+            "name": "João Gabriel Camilo Pires",
+            "age": 18,
+            "email": "camilopiresj@gmail.com",
+            "id": 2
+        },
+        {
+            "name": "João Gabriel Camilo Pires",
+            "age": 17,
+            "email": "camilopiresj@gmail.com",
+            "id": 3
+        }
+    ]
+}
